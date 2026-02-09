@@ -6,6 +6,10 @@ This project is designed to demonstrate how to build a **hallucination-resistant
 
 ---
 
+## 🚀 Live Demo
+
+[**Try the App Here**](https://flight-planner-rag.streamlit.app/)
+
 ## 🚀 Features
 
 - 🔍 RAG-based retrieval using Pinecone (no hallucinated answers)
