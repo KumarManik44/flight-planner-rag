@@ -49,21 +49,21 @@ This architecture ensures:
 ```
 flight-planner-rag/
 │
-├── app.py # Streamlit application
+├── app.py                   # Streamlit application
 ├── requirements.txt
-├── .env # Local only (not committed)
+├── .env                     # Local only (not committed)
 │
 ├── data/
-│ └── routes_v1.json # Structured route dataset
+│ └── routes_v1.json         # Structured route dataset
 │
 ├── ingestion/
-│ ├── create_index.py # Pinecone index creation
-│ └── ingest_routes.py # Batch ingestion into Pinecone
+│ ├── create_index.py        # Pinecone index creation
+│ └── ingest_routes.py       # Batch ingestion into Pinecone
 │
 ├── rag/
-│ └── retrieve_route.py # Vector retrieval logic
+│ └── retrieve_route.py      # Vector retrieval logic
 │
-└── list_gemini_models.py # Utility script
+└── list_gemini_models.py    # Utility script
 ```
 
 
