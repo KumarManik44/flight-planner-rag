@@ -155,5 +155,5 @@ MIT License
 
 ## 👤 Author
 
-Kumar Manik
+# Kumar Manik
 AI Engineer · Builder · Content Creator
